@@ -13,10 +13,16 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  intl: ^0.18.1
+  google_fonts: ^5.1.0
+  get: ^4.6.5
+  date_picker_timeline: ^1.2.5
+
 
 
 
   cupertino_icons: ^1.0.2
+ 
 
   
 
